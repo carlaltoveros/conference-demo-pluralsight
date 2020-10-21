@@ -1,2 +1,2 @@
-# conference-demo-pluralsight
+# Conference Demo
 SpringBoot Application demo from a PluralSight tutorial. 
